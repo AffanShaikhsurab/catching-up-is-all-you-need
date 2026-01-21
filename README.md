@@ -68,4 +68,4 @@ Found an interesting paper? Open a PR to add it to the collection!
 
 ---
 
-*Last updated: January 2026*
+

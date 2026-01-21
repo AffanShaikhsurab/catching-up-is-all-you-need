@@ -50,7 +50,14 @@ A research paper from **October 2025**, representing the latest developments in 
 
 ---
 
-### 6. arXiv Paper 2601.05038
+### 6. arXiv Paper 2511.23404
+**File:** `2511.23404v1.pdf`
+
+A research paper from **November 2025** covering cutting-edge AI research. This is one of the larger papers in the collection, suggesting comprehensive research with extensive experiments and analysis.
+
+---
+
+### 7. arXiv Paper 2601.05038
 **File:** `2601.05038v1.pdf`
 
 A very recent paper from **January 2026**, capturing the most current research directions.
